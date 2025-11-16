@@ -21,7 +21,6 @@ When I’m not coding or exploring tech, you can usually find me
 - `Cisco Operating System Basics`
 - `Google IT Support Certification (In progress)` 
 
-
 ## 🌐 Connect with me:
 https://www.linkedin.com/in/bertnah-nerjuste/
 
