@@ -3,7 +3,7 @@ I’m a third year junior at the **University of Massachusetts, Boston** studyin
 
 ## 🧠 About Me
 When I’m not coding or exploring tech, you can usually find me 
-- 🎮 Gaming,
+- 🎮 Gaming
 - 📺 Watching true crime shows
 - 🎨 Exploring creative outlet
 
