@@ -1,7 +1,11 @@
 ## Hello there! I'm Bee 🐝
-🧠 I’m a third year junior at the University of Massachusetts, Boston, studying Information Technology. I’m fairly new to the IT world, but I’m loving every bit of the learning journey so far.
+I’m a third year junior at the **University of Massachusetts, Boston** studying **Information Technology.** 💻 I’m fairly new to the IT world, but I’m loving every bit of the learning journey so far.
 
-🎮 When I’m not coding or exploring tech, you can usually find me gaming, binging true crime shows, or diving into any creative hobby I can get my hands on.
+## 🧠 About Me
+When I’m not coding or exploring tech, you can usually find me 
+- 🎮 gaming,
+- 📺 Watching true crime shows
+- 🎨 Exploring creative outlet
 
 ## 💡 Fun Facts About Me:
 - I absolutely despise bananas 🍌❌
@@ -14,4 +18,4 @@
 
 ## 🌐 Connect with me:
 https://www.linkedin.com/in/bertnah-nerjuste/
-Thanks for stopping by! Feel free to explore my projects and connect.
+Thanks for stopping by! Feel free to explore my projects and connect.🚀
