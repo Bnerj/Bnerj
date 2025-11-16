@@ -16,6 +16,12 @@ When I’m not coding or exploring tech, you can usually find me
 `IT Problem Solving` `Linux/Unix Fundamentals` `Introduction to Java` `Introduction to Scripting` 
 `Social Issues and Ethics in Computing`
 
+## 📜 Certifications 
+- `Cisco Computer Hardware Basics` 
+- `Cisco Operating System Basics`
+- `Google IT Support Certification (In progress)` 
+
+
 ## 🌐 Connect with me:
 https://www.linkedin.com/in/bertnah-nerjuste/
 
