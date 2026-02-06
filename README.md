@@ -17,9 +17,9 @@ When I’m not coding or exploring tech, you can usually find me
 `IT Problem Solving` `Linux/Unix Fundamentals` `Introduction to Java` `Introduction to Scripting` `Introduction to Networks` `Web Fluency`
 
 ## 📜 Certifications 
-- `Cisco Computer Hardware Basics` 
+- `Cisco Computer Hardware Basics`
 - `Cisco Operating System Basics`
-- `Google IT Support Certification (In progress)` 
+- `Google IT Support Certification (In progress)`
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bertnah-nerjuste/)
@@ -28,10 +28,10 @@ Thanks for stopping by! Feel free to explore my projects and connect.🚀
 
 
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/63675beb-a5b6-4df5-8fb0-b9cdc353f51e" width="750">
 </p>
-
 <p align="center">
   <img src="https://64.media.tumblr.com/tumblr_mse4fnEfGQ1solfhro1_500.gif" width="450" alt="Black Lagoon GIF">
   <br>
