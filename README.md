@@ -21,6 +21,6 @@ When I’m not coding or exploring tech, you can usually find me
 - `Google IT Support Certification (In progress)` 
 
 ## 🌐 Connect with me:
-https://www.linkedin.com/in/bertnah-nerjuste/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bertnah-nerjuste/)
 
 Thanks for stopping by! Feel free to explore my projects and connect.🚀
