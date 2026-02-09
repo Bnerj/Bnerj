@@ -1,6 +1,6 @@
 <!-- Typing animation with blinking cursor -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&cursor=_&lines=HI%2C+MY+NAME+IS+BEE;INFORMATION+TECHNOLOGY+STUDENT;UNIVERSITY+OF+MASSACHUSETTS+BOSTON;JUNIOR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&cursor=_&lines=HI%2C+MY+NAME+IS+BEE;INFORMATION+TECHNOLOGY;UNIVERSITY+OF+MASSACHUSETTS+BOSTON;JUNIOR" />
   
 ## Hello there! I'm Bee 🐝
 
