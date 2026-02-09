@@ -1,3 +1,7 @@
+<!-- Typing animation with blinking cursor -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&cursor=_&lines=HI%2C+MY+NAME+IS+BEE;INFORMATION+TECHNOLOGY+STUDENT;UNIVERSITY+OF+MASSACHUSETTS+BOSTON;JUNIOR" />
+  
 ## Hello there! I'm Bee 🐝
 
 I’m a third year junior at the **University of Massachusetts, Boston** studying **Information Technology.** 💻 I’m fairly new to the IT world, but I’m loving every bit of the learning journey so far.
@@ -12,6 +16,27 @@ When I’m not coding or exploring tech, you can usually find me
 - I absolutely despise bananas 🍌❌
 
 - Some of my all-time favorite shows are Samurai Champloo and The Boondocks
+
+
+## 📈 GITHUB STATS
+
+ ---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bnerj&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 TOOLS I LOVE
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,unity,html,css,js,react,threejs,vscode,github,blender" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bnerj&show_icons=true&theme=tokyonight" />
+</p>
 
 ## 🎓 Learning Now
 `IT Problem Solving` `Linux/Unix Fundamentals` `Introduction to Java` `Introduction to Scripting` `Introduction to Networks` `Web Fluency`
