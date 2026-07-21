@@ -23,7 +23,7 @@ When I’m not coding or exploring tech, you can usually find me
  ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bnerj&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=bnerj&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
